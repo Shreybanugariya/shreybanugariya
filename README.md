@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 Mail me @ shreybanugariya@gmail.com
 - 😄 
 - 
---> Web: Shrey Banugaria(https://shreybanugariya.github.io/)
+--> Web: [Shrey Banugaria](https://shreybanugariya.github.io/)
