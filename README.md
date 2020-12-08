@@ -9,4 +9,5 @@ My repositories are mixture from Youtube tutorials, Medium blogs and other stuff
  
 Portfolio: [ShreyBanugaria](https://shreybanugariya.github.io/)
 
-Dev: [Shrey Banugaria](https://dev.to/shreybanugariya)
+[![Shrey Banugaria's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/shreybanugariya)
+    
