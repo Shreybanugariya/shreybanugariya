@@ -7,7 +7,6 @@ My repositories are mixture from Youtube tutorials, Medium blogs and other stuff
            
  📫 Mail me @ shreybanugariya@gmail.com 
  
-Portfolio: [ShreyBanugaria](https://shreybanugariya.github.io/)
+Portfolio: [ShreyBanugaria](https://shreybanugariya.github.io/
 
-[![Shrey Banugaria's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/shreybanugariya)
-    
+DEV: [Shrey Banugaria](https://dev.to/shreybanugariya)
