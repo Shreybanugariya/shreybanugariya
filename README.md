@@ -2,8 +2,8 @@
 
 
 🔭 I’m currently working on Python and its frameworks(Django Specifically) and Nodejs  ✨
-I like messing around with REST APIs as I am a beginer in that.
-My repositories are mixture from Youtube tutorials, Medium blogs and other stuff available online with some of my code adding errors. 
+I like messing around with codes available online. 
+My repositories are mixture from Youtube tutorials, Medium blogs and other stuff, with some of my code adding errors to it. 
            
  📫 Mail me @ shreybanugariya@gmail.com 
  
