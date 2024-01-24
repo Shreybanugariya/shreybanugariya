@@ -1,7 +1,5 @@
 # Hello, fellow code voyager! 👋
 
-![Spaceship](https://unsplash.com/photos/space-shuttle-challenger-launches-from-kennedy-space-center-dCgbRAQmTQA)
-
 I am Captain [Shrey Banugaria], navigating the vast galaxy of code with my trusty keyboard and a cup of interstellar coffee. 🚀✨
 
 ## Skills Matrix 🛠️
